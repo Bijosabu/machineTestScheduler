@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class MainElevatedButton extends StatelessWidget {
   Color? bgColor;
   final void Function()? onPressed;
